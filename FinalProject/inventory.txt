@@ -1,0 +1,2 @@
+Name: iPhone8 Stock: 5 Price a unit: 999.99
+Name: iPhone10 Stock: 11 Price a unit: 1500.0

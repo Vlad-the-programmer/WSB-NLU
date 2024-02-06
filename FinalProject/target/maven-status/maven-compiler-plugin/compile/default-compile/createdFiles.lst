@@ -1,0 +1,15 @@
+store\Product.class
+store\Shop.class
+store\PaymentMethod.class
+store\ShoppingCart.class
+store\Order.class
+store\DebitCardPayment.class
+store\ORDER_STATUS.class
+store\Payment.class
+store\CreditCardPayment.class
+store\Customer.class
+store\Shipping.class
+store\PAYMENT_STATUS.class
+store\BankTransferPayment.class
+com\mycompany\finalproject\FinalProject.class
+store\Discount.class

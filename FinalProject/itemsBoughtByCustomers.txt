@@ -1,0 +1,2 @@
+John Smith Name: iPhone8 Id: 0 Price a unit: 999.99 Quantity bought: 5
+Jack Smith Name: iPhone10 Id: 1 Price a unit: 1500.0 Quantity bought: 2

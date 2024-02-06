@@ -1,0 +1,13 @@
+university\Course.class
+university\Homework.class
+university\SolvedHomework.class
+university\GradedHomework.class
+university\Mathematician.class
+university\ExperiencedLecturer.class
+university\Poet.class
+university\Student.class
+start\Start.class
+university\Lecture.class
+administration\Evaluation.class
+administration\HumanResources.class
+university\Lecturer.class
